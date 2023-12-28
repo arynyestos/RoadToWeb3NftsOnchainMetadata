@@ -4,7 +4,7 @@ In this project we created dynamic, fully on-chain NFTs using SVG and base64 enc
 
 The NFTs represented the level of a warrior, which was upgradeable by means of a train function that increased the level. Also, we took the challenge to make the warrior NFTs have three pseudorandom stats and tested thiw new functionality with a Hardhat script.
 
-We deployed and verified the NFT contract [here](https://mumbai.polygonscan.com/address/0xC2CD081Db4b0a56af9A976789f0fCe1aCD0aB613), and then minted and trained an NFT, which worked as expected, as we could see on OpenSea:
+We deployed and verified the NFT contract [here](https://mumbai.polygonscan.com/address/0xC2CD081Db4b0a56af9A976789f0fCe1aCD0aB613), and then minted and trained an NFT, which worked as expected, as we could see on OpenSea. Feel free to use the Polygonscan interface to mint and train your own warrior NFTs!
 
 ## Minted NFT
 ![image](https://github.com/arynyestos/RoadToWeb3NftsOnchainMetadata/assets/33223441/0cdf087b-6fbe-49dd-9bf0-9225b362f7bf)
